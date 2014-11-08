@@ -1,0 +1,1 @@
+This is my first text file on GitHub. It is aimed to theach me to use GitHub and Smartgit.
